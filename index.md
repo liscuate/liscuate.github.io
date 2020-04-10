@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-<br>
-<br>
+<hr style="opacity:0">
+This is some unrelated text
+
 # liscuate.me>
 
 ## Header 2

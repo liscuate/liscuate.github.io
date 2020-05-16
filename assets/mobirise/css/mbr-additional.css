@@ -9,6 +9,12 @@
 body,
 input,
 textarea,
+.cart-block{
+ display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
 .mbr-company .list-group-text {
   font-family: 'Raleway', sans-serif;
 }

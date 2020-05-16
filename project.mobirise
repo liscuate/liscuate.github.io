@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Military Database",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,8 @@
     "versionFirst": "4.8.2",
     "siteFonts": [],
     "uniqCompNum": 34,
-    "versionPublish": "4.8.2"
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "page1.html": {
@@ -184,7 +185,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "4",
@@ -279,8 +280,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "United States Of America",
@@ -318,7 +319,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -413,8 +414,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "France",
@@ -452,7 +453,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -547,8 +548,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Turkey",
@@ -586,7 +587,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -681,8 +682,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Iran",
@@ -720,7 +721,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -815,8 +816,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Pakistan",
@@ -854,7 +855,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -949,8 +950,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Saudi Arabia",
@@ -988,7 +989,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1083,8 +1084,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Canada",
@@ -1122,7 +1123,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1217,8 +1218,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "South Africa",
@@ -1256,7 +1257,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1351,8 +1352,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Greece",
@@ -1390,7 +1391,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1485,8 +1486,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Colombia",
@@ -1524,7 +1525,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1619,8 +1620,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "Venezuela",
@@ -1658,7 +1659,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#efefef",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1753,8 +1754,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "title1": "United Arab Emirates",

@@ -11,8 +11,8 @@ body {
 }
 .display-2 {
   font-family: 'Epilogue', sans-serif;
-  font-size: 3rem;
-  line-height: 1.1;
+  font-size: 1.5rem;
+  line-height: 0;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.75rem;
@@ -27,7 +27,7 @@ body {
 }
 .display-5 {
   font-family: 'Epilogue', sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
@@ -776,11 +776,16 @@ a {
 .cid-sFGGp6mJeM .mbr-section-title {
   color: #c37a7a;
 }
+
+.cid-sFGGp6mJeM .mbr-section-title-white {
+  color: #dfd5d5;
+}
 .cid-sP8gLc6YDy {
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   padding-left: 0rem;
   background-color: #232323;
+  color: #c37a7a;
 }
 .cid-sNO7Yr6LNi {
   padding-top: 0rem;

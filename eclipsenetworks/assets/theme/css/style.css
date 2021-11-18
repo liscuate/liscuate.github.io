@@ -132,6 +132,14 @@ section .mbr-background-video-preview {
   background-color: #000000;
 }
 
+/*! Image-aligns */
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*! Text-aligns */
 .align-left {
   text-align: left;

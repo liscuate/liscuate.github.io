@@ -10,10 +10,6 @@ html.mobile-menu-expanded {
   overflow: hidden;
 }
 
-html{
-  scroll-behavior: smooth;
-}
-
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 16px;
@@ -26,6 +22,16 @@ body {
     min-width: 320px;
     float: left;
     width: 100%;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  
+  100% {
+    opacity: 1;
   }
 }
 
